@@ -250,7 +250,7 @@ export const ProfileSidebar = () => {
         <StyledMenuItem
           translate="no"
           onClick={() => {
-            window.open("https://github.com/maciekt07/TodoApp");
+            window.open("https://github.com/Manishkumar82077");
           }}
         >
           <GitHub /> &nbsp; Github{" "}
