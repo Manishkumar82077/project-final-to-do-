@@ -268,7 +268,7 @@ export const ProfileSidebar = () => {
 
         <StyledMenuItem
           onClick={() => {
-            window.open("https://github.com/maciekt07/TodoApp/issues/new");
+            window.open("https://github.com/Manishkumar82077");
           }}
         >
           <BugReportRounded /> &nbsp; Report Issue{" "}
@@ -288,10 +288,10 @@ export const ProfileSidebar = () => {
         <StyledMenuItem
           className="bmcMenu"
           onClick={() => {
-            window.open("https://www.buymeacoffee.com/maciekt07");
+            window.open("https://github.com/Manishkumar82077");
           }}
         >
-          <BmcIcon className="bmc-icon" src={bmcLogo} /> &nbsp; Buy me a coffee{" "}
+          <BmcIcon className="bmc-icon" src={bmcLogo} /> &nbsp; report {" "}
         </StyledMenuItem>
 
         <StyledDivider />
