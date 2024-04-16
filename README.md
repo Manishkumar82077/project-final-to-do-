@@ -51,7 +51,3 @@ To install and run the project locally, follow these steps:
 - Start the development server: `npm run dev`
 
 The app will now be running at [http://localhost:5173/](http://localhost:5173/).
-
-<a href="https://www.buymeacoffee.com/maciekt07" target="_blank">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=maciekt07&button_colour=1a1b27&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
-</a>
